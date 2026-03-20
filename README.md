@@ -44,23 +44,24 @@ Organized into folders:-
          Scikit-learn
 
 **Results:-**
-Accuracy & Loss
 
-Training and validation accuracy/loss plotted over epochs
+-Accuracy & Loss
 
-Confusion Matrix
+-Training and validation accuracy/loss plotted over epochs
 
-Visualized using heatmap
+-Confusion Matrix
 
-Classification Report
+-Visualized using heatmap
+
+-Classification Report
 
 Includes:-
 
-   -Precision
+       Precision
 
-   -Recall
+       Recall
 
-   -F1-score
+       F1-score
 
 **Future Improvements:-**
 
